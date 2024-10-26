@@ -1,0 +1,4 @@
+window:
+  dimensions:
+    columns: 80   # Numero di colonne
+    lines: 24     # Numero di righe
